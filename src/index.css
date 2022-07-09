@@ -26,3 +26,11 @@ nav {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 1rem;
 }
+
+.search {
+  display: inline-flex;
+}
+
+.search__btn {
+  position: absolute;
+}
