@@ -23,7 +23,7 @@ class Search extends React.Component {
   render() {
     return (
       <div className='row'>
-        <div className='col s12'>
+        <div className='col s11'>
           <input
             placeholder='Search'
             type='search'
